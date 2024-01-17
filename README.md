@@ -1,8 +1,5 @@
 # ArcturusPhoenix Fractals
 Discover the depths of the Mandelbrot fractal and find your unique, fascinating and beautiful patterns.
-![](https://cdn.discordapp.com/attachments/869754580261568532/1197081980597190737/emcver.svg) ![](https://cdn.discordapp.com/attachments/869754580261568532/1197081980064505876/emfver.svg) ![](https://cdn.discordapp.com/attachments/869754580261568532/1197081979498270781/ksfver.svg)
-![](https://cdn.discordapp.com/attachments/869754580261568532/1197081979137572916/sources.svg)
-![](https://cdn.discordapp.com/attachments/869754580261568532/1197081978550362132/base1.svg) ![](https://cdn.discordapp.com/attachments/869754580261568532/1197081978151899176/base2.svg)
 
 ## List of projects:
 
