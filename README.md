@@ -3,7 +3,7 @@ Discover the depths of the Mandelbrot fractal and find your unique, fascinating 
 
 ## List of projects:
 
-#### [1] Experimental Mandelbrot Console
+### [1] Experimental Mandelbrot Console
 A Delphi-Pascal console application for Windows to generate Mandelbrot fractals and then save the visualization as a PPM file (Portable Pixmap Format).
 - Delphi-Pascal 7 console application
 - No entries required
@@ -21,7 +21,7 @@ EMC.exe
 
 ------------
 
-#### [2] Experimental Mandelbrot Fractals
+### [2] Experimental Mandelbrot Fractals
 A Delphi-Pascal Visual Component Library (VCL) application with user interface to visualize the Mandelbrot fractal on a bitmap.
 - Delphi-Pascal 7 VCL application
 - Singlethread rendering
@@ -31,7 +31,7 @@ A Delphi-Pascal Visual Component Library (VCL) application with user interface t
 
 ------------
 
-#### [3] Koch Snowflake Fractals
+### [3] Koch Snowflake Fractals
 A Delphi-Pascal Visual Component Library (VCL) application with user interface that calculates and visualizes the Koch Snowflake (originating from the Koch Curve) and its opposite, the Anti Snowflake (Anti Koch Snowflake). The drawn image can be saved and exported as a PNG image file.
 - Delphi-Pascal 11 (RAD Studio 11.3) VCL application
 - Singlethread rendering
@@ -63,12 +63,12 @@ A Delphi-Pascal Visual Component Library (VCL) application with user interface t
 ## Fractal formulas:
 The following mathematical formulas were used to calculate the fractals. The code was altered and modified accordingly in order to achieve improved rendering and computing performance.
 
-#### The Mandelbrot formula
+### The Mandelbrot formula
 **Original functional formula according to Benoît Mandelbrot:**
 $$f(z)=z2+c$$
 In the Mandelbrot set, different c values are considered in order to investigate which points in the complex plane lie in the Mandelbrot set and which do not. Points in the set have a finite iteration sequence, while points outside the set diverge towards infinity.
 
-#### The Koch Snowflake & Curve formula
+### The Koch Snowflake & Curve formula
 **The Koch curve can be calculated conditionally as follows:**
 $$F_n(x, y) = \frac{1}{3} F_{n-1}(x, y) + \frac{1}{3} R_{60} \left(F_{n-1}(x, y)\right) + \frac{1}{3} F_{n-1}\left(F_{n-1}(x, y)\right)$$
 If F is the function that transforms a line into the Koch curve, then the Koch curve can be seen as the union of three such curves.
